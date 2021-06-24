@@ -8,8 +8,7 @@ npm i -D
 ```
 
 [Create an account Google Firestore.](https://firebase.google.com/)  
-And obtain code (click “Add Firebase to your web app”) :
-![example](./README/firestore_02.png)
+
 
 > You obtain that
 ``` JS
@@ -40,7 +39,6 @@ export default config
 
 Retur on Firestore and go to ``Left Menu``->``DEVELOP``->``Database``.  
 Click “Cloud Firestore”, then select “test mode” (it means your database will be public, so don’t share the link on the internet anywhere).
-![example](./README/firestore_02.png)
 
 Launch server
 ``` Git bash
